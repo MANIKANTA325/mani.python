@@ -1,5 +1,5 @@
 # List -> collection od data, ordered ,its mutable ,[]
-mylist=["Data","A","Task","Schedule",544,True,245.61]
+mylist=["mani","pavan","sai","when",255,False,325.62]
 print("The value of mylist is",mylist)
 print(type(mylist))
 # Index value -> prints individual data
@@ -13,18 +13,18 @@ print(mylist[6])
 
 # changeable
 # Update
-mylist[-2]=False
+mylist[-2]=True
 print("The updates values of list is",mylist)
 
 # append(add)
-mylist.append("Details",)
+mylist.append("hello",)
 print("The values after adding are",mylist)
 
 # insert
-mylist.insert(3,"insert")
+mylist.insert(3,"doing")
 print("The value after indexing is",mylist)
 
-list1=[1,23,456]
+list1=[3,32,654]
 
 # extend
 mylist.extend(list1)
@@ -32,10 +32,10 @@ mylist.extend(list1)
 print("The value of list is",mylist)
 
 # Remove
-mylist.remove(544)
+mylist.remove(255)
 print("The values are",mylist)
 
 # delete
-del mylist[-5]
+del mylist[-6]
 print("The values after deleting is", mylist)
 
