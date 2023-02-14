@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ec94a2-ee37-4f6b-8a1e-d38f6368137d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datatypes.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/edupu/python.py&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.pythonProject">
     <configuration name="collectivedatatype" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
